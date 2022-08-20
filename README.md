@@ -294,4 +294,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 **Shellby** emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
 
-This project was written as part of the curriculum for ALX Africa. ALX Africa SE course is a full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit (https://www.alxafrica.com/).
+This project was written as part of the curriculum for ALX Africa. ALX Africa SE course is a full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit (https://www.alxafrica.com/)..
